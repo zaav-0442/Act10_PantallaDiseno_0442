@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-<img width="418" height="680" alt="image" src="https://github.com/user-attachments/assets/7e136145-0a08-4224-b2d2-d26d9b3fe6ec" /><img width="1204" height="698" alt="image" src="https://github.com/user-attachments/assets/9934958f-f97d-4234-be3b-9da1abce074c" />
+<img width="477" height="840" alt="image" src="https://github.com/user-attachments/assets/0007c0ce-72d7-462d-9fbe-838165bdd2e5" />
+<img width="1061" height="669" alt="image" src="https://github.com/user-attachments/assets/2cac3d86-88f5-4b0f-9130-b066e4c5705b" />
 
 ## Getting Started
 
